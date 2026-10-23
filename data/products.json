@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Golden Silence",
+    "category": "Abstract",
+    "price": 4500,
+    "image": "/artworks/portrait-01..jpg"
+  },
+  {
+    "id": 2,
+    "name": "Earthbound",
+    "category": "Nature",
+    "price": 4500,
+    "image": "/artworks/portrait-010.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Quiet Form",
+    "category": "Minimal",
+    "price": 4500,
+    "image": "/artworks/portrait-02.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Original Artwork 04",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-03.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Original Artwork 05",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-04.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Original Artwork 06",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-05.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Original Artwork 07",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-06.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Original Artwork 08",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-07.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Original Artwork 09",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-08.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Original Artwork 10",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-09.jpg"
+  }
+]
