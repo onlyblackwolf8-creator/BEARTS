@@ -1,0 +1,16 @@
+node_modules
+.env
+.DS_Store
+backend/data/orders.json
+
+# Generated files and private data
+frontend/node_modules/
+backend/node_modules/
+frontend/dist/
+backend/data/orders.json
+.env
+
+# Local backups
+*.backup
+*.backup-*
+*.before-*
