@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "name": "Golden Silence",
+    "category": "Abstract",
+    "price": 4500,
+    "image": "/artworks/portrait-01..jpg"
+  },
+  {
+    "id": 2,
+    "name": "Earthbound",
+    "category": "Nature",
+    "price": 4500,
+    "image": "/artworks/portrait-010.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Quiet Form",
+    "category": "Minimal",
+    "price": 4500,
+    "image": "/artworks/portrait-02.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Original Artwork 04",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-03.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Original Artwork 05",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-04.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Original Artwork 06",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-05.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Original Artwork 07",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-06.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Original Artwork 08",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-07.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Original Artwork 09",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-08.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Original Artwork 10",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/portrait-09.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Original Portrait 11",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/IMG_20260201_131938_172.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Original Portrait 12",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/IMG_20260223_165700_089.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Original Portrait 13",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/IMG_20260226_175623_511.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Original Portrait 14",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/IMG-20260306-WA0128.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Original Portrait 15",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/IMG-20260614-WA0046(1).jpg"
+  },
+  {
+    "id": 16,
+    "name": "Original Portrait 16",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/IMG-20260724-WA0012.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Original Portrait 17",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/IMG-20260724-WA0015.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Original Portrait 18",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/IMG-20260730-WA0018.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Original Portrait 19",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/IMG_20260731_113133_151.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Original Portrait 20",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/IMG-20260731-WA0039.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Original Portrait 21",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/IMG_20260814_152848_950.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Original Portrait 22",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/IMG-20260820-WA0048.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Original Portrait 23",
+    "category": "Pencil Portrait",
+    "price": 4500,
+    "image": "/artworks/WA_1785168395086.jpg"
+  }
+]

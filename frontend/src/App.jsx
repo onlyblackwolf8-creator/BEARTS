@@ -1,7 +1,6 @@
 
 import { useEffect, useState } from 'react';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
 
 const SOCIAL_LINKS = {
   instagram: 'https://www.instagram.com/_be.arts/',
@@ -96,7 +95,7 @@ export default function App() {
 
     async function fetchProducts() {
       try {
-        const response = await fetch(`${API_URL}/products`);
+        const response = await fetch(`${import.meta.env.BASE_URL}products.json`);
 
         if (!response.ok) {
           throw new Error('Unable to load artwork right now.');
@@ -237,7 +236,7 @@ export default function App() {
               <div className="art-card">
                 <video
                   className="art-image"
-                  src="/videos/BEARTS.mp4"
+                  src={`${import.meta.env.BASE_URL}videos/BEARTS.mp4`}
                   autoPlay
                   loop
                   muted
@@ -277,7 +276,7 @@ export default function App() {
                 {products.map((product) => (
                   <article key={product.id} className="product-card">
                     <img
-                      src={product.image}
+                      src={`${import.meta.env.BASE_URL}${product.image.replace(/^\/+/, '')}`}
                       alt={product.name}
                       loading="lazy"
                     />
@@ -402,7 +401,7 @@ export default function App() {
             <details className="pricing-reference">
               <summary>View original pricing reference</summary>
               <img
-                src="/images/bearts-commission-rates.jpeg"
+                src={`${import.meta.env.BASE_URL}images/bearts-commission-rates.jpeg`}
                 alt="Original BEARTS commission rates and booking terms reference"
                 loading="lazy"
               />
