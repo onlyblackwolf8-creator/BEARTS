@@ -285,10 +285,7 @@ export default function App() {
                       <div className="product-row">
                         <h3>{product.name}</h3>
 
-                        <span>
-                          KSh{' '}
-                          {Number(product.price || 0).toLocaleString('en-KE')}
-                        </span>
+                        
                       </div>
 
                       <p>{product.category}</p>
